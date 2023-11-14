@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.152a2a60.css",
+    "main.js": "/static/js/main.3b3ef872.js",
+    "static/media/alan-linssen-alanlinssen-kitbashkitrender2.jpg": "/static/media/alan-linssen-alanlinssen-kitbashkitrender2.3c69ee1cf0f2ed26a178.jpg",
+    "static/media/rentao_-22-10-.jpg": "/static/media/rentao_-22-10-.0e905a1fddc14c667d4d.jpg",
+    "static/media/phuongvp-maybe-i-m-dreaming-by-pvpgk-deggyli.jpg": "/static/media/phuongvp-maybe-i-m-dreaming-by-pvpgk-deggyli.258b0cdc1ffd196932cf.jpg",
+    "static/media/Sparse-Ahmed-Mostafa-vetarans-2.jpg": "/static/media/Sparse-Ahmed-Mostafa-vetarans-2.27ce75fb11352ab57596.jpg",
+    "static/media/suresh-pydikondala-lion.jpg": "/static/media/suresh-pydikondala-lion.ebe7069ff4afdb3d2823.jpg",
+    "static/media/daniel-taylor-black-and-white-2019-2.jpg": "/static/media/daniel-taylor-black-and-white-2019-2.51d6d6bc748020cac49c.jpg",
+    "static/media/luzhan-liu-1-1500.jpg": "/static/media/luzhan-liu-1-1500.0ca90f06d7974eabb601.jpg",
+    "static/media/ashline-sketch-brushes-3-2.jpg": "/static/media/ashline-sketch-brushes-3-2.3136fdbdf8ccd5ef22ac.jpg",
+    "static/media/Logo.svg": "/static/media/Logo.be3a4bbe95decc2802347b22ac0dfe97.svg",
+    "static/media/galerie.svg": "/static/media/galerie.74cf81170c82618f4b53626b80dcc297.svg",
+    "index.html": "/index.html",
+    "static/media/ethereum_logo.svg": "/static/media/ethereum_logo.c729bd46b192b8ea53dcc0d30b14ad9e.svg",
+    "main.152a2a60.css.map": "/static/css/main.152a2a60.css.map",
+    "main.3b3ef872.js.map": "/static/js/main.3b3ef872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.152a2a60.css",
+    "static/js/main.3b3ef872.js"
+  ]
+}

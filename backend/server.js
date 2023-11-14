@@ -11,7 +11,7 @@ const routes = require('./routes')(app);
 
 app.use(express.static('build'));
 app.get('*', function(req, res) {
-  res.sendFile('index.html', { root: __dirname })
+  res.sendFile('build/index.html', { root: __dirname })
 });
 
 const server = app.listen(3333, () => {
